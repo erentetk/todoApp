@@ -64,10 +64,3 @@ PORT=5000
 - Todo'ları farklı durumlara taşımak için sürükleyip bırakın
 - Todo'yu silmek için "Sil" butonunu kullanın
 
-## Lisans
-
-MIT
-
-## İletişim
-
-[İsminiz] - [E-posta adresiniz] # todoApp
