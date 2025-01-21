@@ -70,4 +70,4 @@ MIT
 
 ## İletişim
 
-[İsminiz] - [E-posta adresiniz] 
+[İsminiz] - [E-posta adresiniz] # todoApp
